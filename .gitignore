@@ -11,6 +11,9 @@
 *.iml
 .idea/
 
+# Target dir
+target/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
